@@ -1,4 +1,4 @@
-This is a neovim configuration for personal use.
+NeoVIM configuration for personal use.
 
 Installation
 
