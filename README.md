@@ -1,6 +1,6 @@
 # 💤 NeoVim Configuration
 
- **Updated on:** _November, 2025_
+🗓️ **Updated on:** _November, 2025_
 
 A custom **NeoVim configuration** designed for personal use — focused on speed, simplicity, and extensibility.
 
