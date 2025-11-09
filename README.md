@@ -11,13 +11,13 @@ This setup is based on the popular [kickstart.nvim](https://github.com/nvim-lua/
 ## 🚀 Installation
 
 ### For Windows
-1. Copy the `nvim` directory to:
+Copy the `nvim` directory to:
    ```
    C:\Users\%User_Name%\AppData\Local
    ```
 
 ### For Linux
-1. Copy the `nvim` directory to:
+Copy the `nvim` directory to:
    ```
    ~/.config
    ```
