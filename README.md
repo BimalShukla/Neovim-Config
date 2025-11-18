@@ -4,7 +4,7 @@
 
 A custom **NeoVim configuration** designed for personal use — focused on speed, simplicity, and extensibility.
 
-This setup is based on the popular [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) configuration, with personal tweaks and improvements for a cleaner development workflow.
+This setup is based on the popular [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) and [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim) configuration, with personal tweaks and improvements for a cleaner development workflow.
 
 ---
 
@@ -65,7 +65,7 @@ You can easily modify or extend the configuration:
 
 ---
 
-## 🧠 Credits
+## 🙏 Credits
 
 - [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – Base configuration template.
 - [Neovim](https://neovim.io/) – The modern Vim editor.
