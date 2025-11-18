@@ -1,4 +1,4 @@
-# 💤 NeoVim Configuration
+# 💤 NeoVIM Configuration
 
 🗓️ **Updated on:** _November, 2025_
 
