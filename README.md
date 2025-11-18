@@ -67,5 +67,9 @@ You can easily modify or extend the configuration:
 
 ## 🙏 Credits
 
-- [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) – Base configuration template.
-- [Neovim](https://neovim.io/) – The modern Vim editor.
+– The modern Vim editor.
+   - [Neovim](https://neovim.io/)
+
+– Base configuration template.
+   - [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+   - [kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim)
